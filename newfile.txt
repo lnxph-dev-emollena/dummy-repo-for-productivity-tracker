@@ -1,1 +1,7 @@
 This is new component
+
+updated this component from ticket 003
+1 
+2
+3
+4
